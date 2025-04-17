@@ -12,3 +12,7 @@ npm run install:all
 
 > [!NOTE]
 > This is a template repo, add any other initialization steps here please!
+
+> [!WARNING]
+> This REPO uses the GPL-3.0 license, this license only applies if you modify this and also use it as a template repo!
+> If this repo is applied as a new project, feel free to close source it!
